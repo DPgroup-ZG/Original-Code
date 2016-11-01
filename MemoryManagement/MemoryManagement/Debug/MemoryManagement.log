@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+f:\vs2015\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  f:\vs2015\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  MemoryManagementDlg.cpp
+c:\users\zhy\desktop\memorymanagement\memorymanagement\memorymanagementdlg.h(16): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+  MemoryManagement.cpp
+c:\users\zhy\desktop\memorymanagement\memorymanagement\memorymanagementdlg.h(16): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+  正在生成代码...
+  MemoryManagement.vcxproj -> C:\Users\ZHY\Desktop\MemoryManagement\Debug\MemoryManagement.exe
+  MemoryManagement.vcxproj -> C:\Users\ZHY\Desktop\MemoryManagement\Debug\MemoryManagement.pdb (Full PDB)
