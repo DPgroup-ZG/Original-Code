@@ -1,2 +1,6 @@
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+<<<<<<< HEAD
 Debug|Win32|E:\重装系统前备份\另一账户\Visual Studio 2013\Projects\MemoryManagement\|
+=======
+Debug|Win32|C:\Users\ZHY\Desktop\MemoryManagement\|
+>>>>>>> origin/master
